@@ -14,7 +14,7 @@ const siteMetadata = {
   github: 'https://github.com/marcelo-mantilla',
   twitter: 'https://twitter.com/mindofmarcelo',
   linkedin: 'https://www.linkedin.com/in/marcelo-mantilla-080410143',
-  gumroad: 'https://gumroad.com',
+  gumroad: 'https://mindofmarcelo.gumroad.com',
   soundcloud: 'https://soundcloud.com/pondermars',
   locale: 'en-CA',
   analytics: {
